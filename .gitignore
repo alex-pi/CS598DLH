@@ -1,0 +1,14 @@
+.DS_Store
+.DS_Store?
+.ipynb_checkpoints
+**/*.exe
+**/*.iml
+.idea
+idx*/**
+__pycache__
+*.pyc
+tuts/data/cifar-10-batches-py
+tuts/data/cifar-10-python.tar.gz
+hw1/data/train/events.csv
+tuts/data/MNIST
+week1/data
