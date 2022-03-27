@@ -23,3 +23,6 @@ tuts/data/hymenoptera_data
 tuts/data/hymenoptera_data.zip
 hw4/HW4_RETAIN-lib
 hw4/data.zip
+hw4/data.z*
+hw4/HW4_CAML-lib
+hw4/HW4_MINA-lib
